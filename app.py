@@ -20,7 +20,7 @@ from nltk.tokenize import word_tokenize
 
 import  pickle
 
-pickle_in=open(r"A:\DS ML\NLP Tasks\Identify the sentiments\SentimentIdentifier.pkl",'rb')
+pickle_in=open("SentimentIdentifier.pkl",'rb')
 clf=pickle.load(pickle_in)
 
 def predict(text):
