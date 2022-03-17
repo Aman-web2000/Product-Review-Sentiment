@@ -1,5 +1,3 @@
-from turtle import window_width
-import matplotlib
 import streamlit as st
 import pandas as pd
 import nltk
