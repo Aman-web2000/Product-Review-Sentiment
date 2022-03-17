@@ -1,0 +1,7 @@
+streamlit == 0.67.0
+pandas 
+matplotlib
+seaborn
+numpy
+sklearn
+nltk
