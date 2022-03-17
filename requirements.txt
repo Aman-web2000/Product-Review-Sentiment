@@ -1,7 +1,8 @@
-streamlit == 0.67.0
+streamlit
 pandas 
 matplotlib
 seaborn
 numpy
 sklearn
 nltk
+string
